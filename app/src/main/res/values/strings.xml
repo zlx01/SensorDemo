@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="list_all_sensors">list all sensors</string>
+    <string name="test_sensor">test sensor</string>
+    <string name="test_orientation">test orientation</string>
+    <string name="test_step">test step</string>
+    <string name="acceleration_sensor">加速度传感器</string>
+    <string name="linear_acceleration_sensor">线性加速度传感器</string>
+    <string name="gyroscope_sensor">陀螺仪传感器</string>
+    <string name="gravity_sensor">重力传感器</string>
+    <string name="magnetic_field_sensor">电磁场传感器</string>
+    <string name="orientation_sensor1">方向传感器 TYPE_ORIENTATION</string>
+    <string name="orientation_sensor2">方向传感器 getOrientation</string>
+    <string name="test_acceleration">test acceleration</string>
+</resources>
